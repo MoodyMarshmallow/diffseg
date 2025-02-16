@@ -1,0 +1,11 @@
+tensorflow==2.14.0
+tensorflow-datasets==4.9.3
+tensorflow-estimator==2.14.0
+tensorflow-io-gcs-filesystem==0.34.0
+tensorflow-metadata==1.14.0
+tensorrt==8.5.3.1
+keras==2.14.0
+keras-core==0.1.7
+keras-cv==0.6.4
+nvidia-nccl-cu11
+transformers=4.34.1
